@@ -1,0 +1,13 @@
+h1 {
+    font-size: 4em;
+    color: gray;
+    border: solid rgba(0, 0, 0, 0.72);
+    background-color: rgb(80, 162, 189); /* Ajout de cette ligne pour le fond coloré */
+}
+
+h2 {
+    font-size: 6em;
+    color: gray;
+    border: solid rgba(0, 0, 0, 0.72);
+    background-color: lightgreen; /* Ajout de cette ligne pour le fond coloré */
+}

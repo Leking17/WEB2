@@ -1,0 +1,15 @@
+button {
+    background-color: rgb(7, 73, 73);
+    color: white;
+    border: 1px solid black; /*bordure de 1px de couleur noire*/
+    border-radius: 8px; /*bordure arrondie*/
+}
+
+button:hover{ /* Lorsque la souris est sur le bouton */
+    box-shadow: 4px 2px 4px black;/* Propriété qui s'ajoute aux propriétés de base */
+    background-color: black;  /* Couleur de fond */
+}
+
+button:active{ /* Lorsque le bouton est cliqué */
+    box-shadow: 0px 0px;/* Propriété qui s'ajoute aux propriétés de base */
+}
